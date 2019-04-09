@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Mkl",
+        "repositoryURL": "https://github.com/barrymoo/swift-mkl",
+        "state": {
+          "branch": null,
+          "revision": "d979edd6379c641cf7e077382cf29c336a3a052c",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
