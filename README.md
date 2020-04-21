@@ -1,6 +1,6 @@
 # Simple DAXPY with MKL in Swift
 
-More details for installing MKL see https://github.com/barrymoo/swift-mkl
+More details for installing MKL see https://github.com/chiroptical/swift-mkl
 
 I will assume the directory you installed MKL is `/home/barrymoo/src/mkl`
 
